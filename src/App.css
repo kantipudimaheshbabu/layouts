@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+}
+
+
+ .scroller{
+    width: 100%;
+    overflow-x: scroll;
+
+} 
+
+.contentoverflow{
+    display: flex;
+    white-space: nowrap;
+   
+    
+}

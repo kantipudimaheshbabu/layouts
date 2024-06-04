@@ -1,0 +1,13 @@
+// {
+//     "emmet.preferences": {
+
+//     }
+// }
+
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.preferences": {},
+  "tailwindCSS.emmetCompletions": true
+}
